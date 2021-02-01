@@ -126,7 +126,7 @@ cat README.md
 
 Open a browser and login to github.com
 
-Click the create new repository icon.![image-20210131163339864](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210131163339864.png)
+Click the create new repository icon.![image-20210131163339864](images\image-20210131163339864.png)
 
 
 
@@ -140,7 +140,7 @@ Click the create new repository icon.![image-20210131163339864](C:\Users\logicwe
 
    
 
-![image-20210131162732083](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210131162732083.png)
+![image-20210131162732083](images/image-20210131162732083.png)
 
 
 
