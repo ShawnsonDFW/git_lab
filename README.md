@@ -126,7 +126,9 @@ cat README.md
 
 Open a browser and login to github.com
 
-Click the create new repository icon.![image-20210131163339864](images\image-20210131163339864.png)
+Click the create new repository icon.![image-20210131163339864](images/image-20210131163339864.png)
+
+
 
 
 
@@ -178,7 +180,7 @@ The `git commit` command takes all the file contents that have been staged with 
 
 
 
-![image-20210131181722708](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210131181722708.png)
+![image-20210131181722708](images/image-20210131181722708.png)
 
 
 
@@ -238,7 +240,7 @@ When prompted, sign in to github with your credentials.
 
 Back in the browser, you should now see the README file and a single "main" branch in your learning_git_cli repository.
 
-![image-20210131194827073](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210131194827073.png)
+![image-20210131194827073](images/image-20210131194827073.png)
 
 
 
