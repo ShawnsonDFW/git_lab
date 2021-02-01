@@ -536,11 +536,11 @@ Write a comment and press the Create pull request button
 
 
 
-
-
-Note: At this point continuous integration can kick in.
+*Note: At this point continuous integration can kick in.*
 
 Click the merge pull request and confirm to complete the merge.
+
+Your main branch should now have the updated README file.
 
 
 
