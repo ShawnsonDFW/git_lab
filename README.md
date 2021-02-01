@@ -376,7 +376,7 @@ Create a new file in the project and push changes upstream:
 echo "This is a new file" >> new_file.txt
 git add .
 git commit -m "First my_feature branch commit"
-git push --set-upstream origin development
+git push --set-upstream origin my_feature
 ```
 
 
@@ -514,7 +514,7 @@ More precisely, git pull runs git fetch with the given parameters and calls \*gi
 
 #### Create a pull request
 
-![image-20210201074206283](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210201074206283.png)
+![image-20210201074206283](images/image-20210201074206283.png)
 
 
 
@@ -526,13 +526,17 @@ Click compare & pull request button
 
 
 
-![image-20210201074339402](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210201074339402.png)
+![image-20210201074339402](images/image-20210201074339402.png)
 
 Write a comment and press the Create pull request button
 
 
 
-![image-20210201074645272](C:\Users\logicwerx\AppData\Roaming\Typora\typora-user-images\image-20210201074645272.png)
+![image-20210201074645272](images/image-20210201074645272.png)
+
+
+
+
 
 Note: At this point continuous integration can kick in.
 
