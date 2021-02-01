@@ -409,7 +409,7 @@ echo "- made another change in my_feature" >> README.md
 Push to the remote repository
 
 ```
-git add.
+git add .
 git commit -m "Ready for pull request"
 git push
 ```
