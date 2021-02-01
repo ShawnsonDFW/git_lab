@@ -320,7 +320,7 @@ git status
 
 ##### git log
 
-The git log command shows a history of commits and position of each commit in tree the distributed tree.  Output includes: commit author, author's email, commit timestamp, commit ID, commit message, and branch location.  Commits are listed in descending order based on timestamp.
+The git log command shows a history of commits and position of each commit in the distributed tree.  Output includes: commit author, author's email, commit timestamp, commit ID, commit message, and branch location.  Commits are listed in descending order based on timestamp.
 
 The --oneline option for git log is handy if you want abbreviated single-line output containing:  commit ID, commit message, and branch location
 
